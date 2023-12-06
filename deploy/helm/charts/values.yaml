@@ -150,6 +150,7 @@ role: openebs-zfs
 
 crd:
   enableInstall: true
+  volumeSnapshot: true
 
 serviceAccount:
   zfsController:
